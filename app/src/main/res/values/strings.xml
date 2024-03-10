@@ -1,3 +1,10 @@
 <resources>
-  <string name="app_name">Assignment4</string>
+    <string name="app_name">Amazing Products</string>
+    <string name="login">Login</string>
+    <string name="price_format">$</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="product_type">Product Type</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">product_price</string>
 </resources>
