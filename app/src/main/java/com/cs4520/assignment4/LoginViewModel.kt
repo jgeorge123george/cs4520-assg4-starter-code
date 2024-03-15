@@ -1,12 +1,10 @@
 package com.cs4520.assignment4
 
-import android.app.usage.UsageEvents
+
 import android.widget.Toast
-import androidx.core.content.ContentProviderCompat.requireContext
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-
 import androidx.fragment.app.Fragment
 
 

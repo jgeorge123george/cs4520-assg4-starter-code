@@ -7,7 +7,5 @@ interface ProductService {
     @GET("/prod/")
     suspend fun getProducts(@Query("page") page: Int): List<ProductResponse>
 
-//      @GET("/typicode/demo/posts")
-//      suspend fun getProducts(): List<Product>
 
 }

@@ -23,6 +23,8 @@ sealed class Product(
         val prodType: ProductType,
         val foodExpiryDate: LocalDate? = null
     ) : Product(foodName, foodPrice, ProductType.Food, foodExpiryDate)
+
+
 }
 
 

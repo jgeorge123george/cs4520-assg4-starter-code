@@ -2,7 +2,7 @@ package com.cs4520.assignment4
 
 import com.google.gson.annotations.SerializedName
 
-data class AmzingProduct(
+data class AmazingProduct(
     @SerializedName("name") val name: String,
     @SerializedName("type") val type: String,
     @SerializedName("expiryDate") val expiryDate: String?,
